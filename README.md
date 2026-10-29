@@ -1,2 +1,2 @@
 # kubernetes-public
-VM쿠버네티스 수
+VM쿠버네티스 수업
